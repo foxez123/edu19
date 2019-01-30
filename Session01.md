@@ -1,4 +1,7 @@
 # 1.1. 사전 준비 사항
+## 실습 환경
+- Putty ==> EDU VM | Hyperledger fabric containers
+
 ## A. Putty(Telnet Client) 설치
 - Putty 설치: https://www.putty.org/
 
