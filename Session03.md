@@ -1,5 +1,5 @@
 # 1.3. XML, JSON, YAML 소개
-## A. XML(Markup Language)
+## A. XML(eXtensible Markup Language)
 - 
 
 ## B. JSON(JavaScript Object Notation)
