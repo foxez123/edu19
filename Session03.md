@@ -5,7 +5,7 @@
 ## B. JSON(JavaScript Object Notation)
 - 장점:- Lightweight data-interchange format
 - 구조: A collection of name/value paris. An ordered list of values
-'''
+```
 {
     "format": {
         "type": "json",
@@ -15,7 +15,7 @@
         }
     }
 }
-'''
+```
 
 ## C. YAML(YAML Ain't markup language)
 - 장점
